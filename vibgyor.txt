@@ -1,4 +1,5 @@
-The colours of rainbow
+The colors of rainbow are
+
 
 Violet
 Indigo
@@ -7,3 +8,5 @@ Green
 yellow
 Orange
 Red
+
+-arun
