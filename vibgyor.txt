@@ -1,5 +1,6 @@
 The colors of rainbow are
 As per the unicorn of the code
+Spendor
 
 
 Violet
@@ -10,6 +11,7 @@ yellow
 Orange
 Red
 
-Unicorn is a bike in India however its a horse with a single horn
+Unicorn is a bike in India however its a horse with a single horn.
+Old bike and with wonderful look.
 
 -arun
