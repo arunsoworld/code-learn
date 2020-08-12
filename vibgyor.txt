@@ -5,4 +5,4 @@ Indigo
 Blue
 yellow
 Orange
-Rose
+Red
