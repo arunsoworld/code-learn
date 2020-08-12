@@ -1,4 +1,5 @@
 The colors of rainbow are
+As per the unicorn of the code
 
 
 Violet
@@ -8,5 +9,7 @@ Green
 yellow
 Orange
 Red
+
+Unicorn is a bike in India however its a horse with a single horn
 
 -arun
